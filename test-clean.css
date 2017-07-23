@@ -1,11 +1,10 @@
+
+@import url(https://redacted.ch/static/styles/global.css);
+@import url(https://redacted.ch/static/styles/tooltipster/style.css);
+@import url(https://redacted.ch/static/styles/postmod/style.css);
+@import url(https://redacted.ch/static/styles/prism.css);
+
 body {
     background-image: url('https://raw.githubusercontent.com/Phlooo/RedactHaze-stylesheet/master/images/backgrounds/vinyl.jpg');
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center center;
     background-color: #212121;
 }
